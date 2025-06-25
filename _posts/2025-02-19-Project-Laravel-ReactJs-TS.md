@@ -5,6 +5,7 @@ categories: [Project Web]
 layout: post
 author: pangeran juhrifar jafar
 permalink: "/daily/2"
+image: "/assets/images/image_recipe.png"
 tags:
 - website
 - laravel

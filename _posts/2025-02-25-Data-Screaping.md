@@ -4,14 +4,17 @@ date: 2025-02-25T00:00:00.000+00:00
 categories: [Data Science, Web Scraping, Python, Data Meaning]
 layout: post
 author: Pangeran Juhrifar Jafar
+image: "assets/images/image_pengenalan_screap.png"
 permalink: "/daily/3"
 tags:
 - Data Science
 ---
 
+Link video : [My Video](https://www.youtube.com/watch?v=JWowm3Aq9YM&t=824s)
 ## 🧐 Apa Itu Data Scraping?
 
 Data Scraping adalah proses otomatis untuk mengambil data dari sebuah website. Teknik ini sangat berguna ketika data yang kita butuhkan tidak tersedia dalam format yang bisa langsung diunduh, seperti CSV atau API.
+
 
 ## 🔄 Alur Dasar Data Scraping
 
