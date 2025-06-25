@@ -5,7 +5,7 @@ date: 2025-06-25
 categories: [web-scraping, python, real-estate]
 tags: [selenium, mamikos, lazy-loading, dynamic-content, indonesia]
 author: "Pangeran Juhrifar Jafar"
-permalink: "/daily/6"
+permalink: "/daily/5"
 image: "assets/images/mamikost.png"
 excerpt: "Tutorial lengkap scraping data kost dari Mamikos.com menggunakan Selenium untuk menangani dynamic loading, infinite scroll, dan lazy loading images."
 ---

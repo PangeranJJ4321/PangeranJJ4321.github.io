@@ -2,7 +2,7 @@
 layout: post
 title: "Menguasai 3 Teknik Web Scraping: Forms, AJAX, dan iFrames"
 date: 2025-06-25
-permalink: "/daily/5"
+permalink: "/daily/6"
 categories: [web-scraping, python, tutorial]
 tags: [beautifulsoup, selenium, requests, pagination, ajax, iframe]
 author: "Pangeran Juhrifar Jafar"
