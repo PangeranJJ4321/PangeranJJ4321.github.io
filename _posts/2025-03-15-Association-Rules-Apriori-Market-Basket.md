@@ -4,7 +4,7 @@ date: 2025-06-24T00:00:00.000+00:00
 categories: [Data Science, Web Scraping, Python, Data Meaning]
 layout: post
 author: Pangeran Juhrifar Jafar
-permalink: "/daily/4"
+permalink: "/post/4"
 image: "https://annalyzin.files.wordpress.com/2016/04/association-rule-support-table.png?w=503&h=447"
 tags:
 - Data Science

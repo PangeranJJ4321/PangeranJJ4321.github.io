@@ -5,7 +5,7 @@ categories: [Data Science, Web Scraping, Python, Data Meaning]
 layout: post
 author: Pangeran Juhrifar Jafar
 image: "assets/images/image_pengenalan_screap.png"
-permalink: "/daily/3"
+permalink: "/post/3"
 tags:
 - Data Science
 ---

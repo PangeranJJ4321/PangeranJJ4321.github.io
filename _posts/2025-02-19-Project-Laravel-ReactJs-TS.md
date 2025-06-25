@@ -4,7 +4,7 @@ date: 2025-02-19T00:00:00.000+00:00
 categories: [Project Web]
 layout: post
 author: pangeran juhrifar jafar
-permalink: "/daily/2"
+permalink: "/post/2"
 image: "/assets/images/image_recipe.png"
 tags:
 - website

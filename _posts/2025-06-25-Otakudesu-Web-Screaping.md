@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "🎌 Web Scraping Otakudesu: Mengekstrak Data Anime dengan Python"
-date: 2025-06-25
+date: 2025-06-25T00:00:00.000+00:00
 categories: [web-scraping, python, anime]
 tags: [beautifulsoup, pandas, data-extraction, otakudesu]
 author: "Data Enthusiast"
-permalink: "/daily/7"
+permalink: "/post/7"
 description: "Tutorial lengkap web scraping website anime Otakudesu menggunakan Python, BeautifulSoup, dan Pandas"
 image: "https://www.pantau.com/_next/image?url=https%3A%2F%2Fpantau.sgp1.cdn.digitaloceanspaces.com%2Fimages%2F20240804-139-screenshot-2024-08-04-201300.jpg&w=2048&q=75"
 ---

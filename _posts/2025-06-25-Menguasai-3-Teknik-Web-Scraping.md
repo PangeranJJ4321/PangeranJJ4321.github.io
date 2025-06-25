@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Menguasai 3 Teknik Web Scraping: Forms, AJAX, dan iFrames"
-date: 2025-06-25
-permalink: "/daily/6"
+date: 2025-06-25T00:00:00.000+00:00
 categories: [web-scraping, python, tutorial]
 tags: [beautifulsoup, selenium, requests, pagination, ajax, iframe]
 author: "Pangeran Juhrifar Jafar"
 image: "assets/images/scrape-site.png"
+permalink: "/post/6"
 excerpt: "Pelajari cara mengatasi tantangan web scraping modern dengan tiga teknik berbeda: menangani forms dengan pagination, scraping data AJAX/JavaScript, dan mengekstrak data dari iFrames."
 ---
 
